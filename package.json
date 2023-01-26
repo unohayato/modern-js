@@ -5,5 +5,7 @@
   "repository": "https://github.com/unohayato/modern-js.git",
   "author": "unohayato <mamidori1p1p@gmail.com>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "3.6.3"
+  }
 }
