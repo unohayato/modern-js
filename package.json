@@ -6,6 +6,6 @@
   "author": "unohayato <mamidori1p1p@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jquery": "3.6.3"
+    "jquery": "^3.6.3"
   }
 }
