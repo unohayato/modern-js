@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/unohayato/modern-js.git",
   "author": "unohayato <mamidori1p1p@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
 }
